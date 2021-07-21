@@ -1,4 +1,6 @@
-# Fintech Innovation Coding Test
+# This project is for Fintech Innovation Coding Test.
+
+#Below given the requirements needed for the projects and API developed as per the plan
 
 ## Intro:
 We have an API towards application developers, which returns information about all the banks which are available for the application.

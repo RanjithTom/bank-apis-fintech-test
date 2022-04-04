@@ -1,4 +1,4 @@
-# This project is for Fintech Innovation Coding Test.
+# Example project to have fintech API calling in Parallel
 
 #Below given the requirements needed for the projects and API developed as per the plan
 
